@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Widgets>
+	<TextBox>
+	    <TextBoxText>Hello, am text</TextBoxText>
+	    <PositionX>200</PositionX>
+	    <PositionY>200</PositionY>
+	    <FontSize>22</FontSize>
+	    <FontType>san_serif</FontType>
+	    <TextColor>-16776961</TextColor>
+	</TextBox>
+	<Button>
+	   
+	    <ButtonHeight>wrap_content</ButtonHeight>
+	    <ButtonWidth>wrap_content</ButtonWidth>
+	    <ButtonText>Button :)</ButtonText>
+	</Button>
+	<InputBox>
+	    
+	</InputBox>
+	<DropDown>
+	    
+	</DropDown>
+	<TickBox>
+	    
+	</TickBox>
+	<Toggle>
+	    
+	    
+	</Toggle>
+	<RadioButton>
+	    
+	</RadioButton>
+	<Signature>
+	    
+	</Signature>
+	
+	<Image>
+	    <FileName>redcross.png</FileName>
+	    <PositionX>200</PositionX>
+	    <PositionY>400</PositionY>
+	</Image>
+	    
+	</Graphic>
+</Widgets>
